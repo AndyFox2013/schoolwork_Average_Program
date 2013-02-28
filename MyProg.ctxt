@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main([Ljava.lang.String;)
+comment0.text=\r\n\ Main\ method\ -\ required\ by\ all\ programs\ *\r\n\r\n
+comment1.params=
+comment1.target=int\ getValues()
+comment1.text=\r\ngetValues()\ *\r\n\r\n
+comment2.params=numberValues
+comment2.target=double[]\ getNumbers(int)
+comment2.text=\r\n\ getNumbers()\ *\r\n\r\n
+comment3.params=numberValues\ numbers
+comment3.target=double\ calcAvg(int,\ double[])
+comment3.text=\r\n\ calcAvg\ *\r\n\ \r\n
+numComments=4
